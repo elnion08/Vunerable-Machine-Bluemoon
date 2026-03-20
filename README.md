@@ -1,12 +1,15 @@
-🛡️ BlueMoon: 2021 Penetration Testing Report
-📋 Project Summary
-Detailed walkthrough of the BlueMoon: 2021 CTF machine. The objective was to demonstrate a full attack lifecycle, from initial reconnaissance to gaining a user shell via SSH.
+# 🛡️ BlueMoon: 2021 Penetration Testing Report
+
+## 📋 Project Summary
+Detailed walkthrough of the *BlueMoon: 2021* CTF machine. The objective was to demonstrate a full attack lifecycle, from initial reconnaissance to gaining a user shell via SSH.
+
 ---
-🛠️ Infrastructure & Toolkit
-Target IP: `10.27.55.51`
-Attacker OS: Kali Linux (`alyntsh@kali`)
-Networking: `ifconfig eth0` confirmed local IP `10.27.55.10`
-Tools Used: Nmap, Gobuster, Hydra, FTP, QR Analysis
+
+## 🛠️ Infrastructure & Toolkit
+- *Target IP:* 10.27.55.51
+- *Attacker OS:* Kali Linux (alyntsh@kali)
+- *Networking:* ifconfig eth0 confirmed local IP 10.27.55.10
+- *Tools Used:* Nmap, Gobuster, Hydra, FTP, QR Analysis
 ---
 🔍 Phase 1: Reconnaissance & Enumeration
 1. Host Discovery
