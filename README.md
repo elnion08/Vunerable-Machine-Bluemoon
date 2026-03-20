@@ -65,10 +65,10 @@ Access:
 robin@BlueMoon:~$
 ```
 ---
-✅ Conclusion
+## ✅ Conclusion
 Successfully completed:
-Reconnaissance
-Enumeration
-Exploitation
-Credential Harvesting
-Initial Access via SSH
+- Reconnaissance  
+- Enumeration  
+- Exploitation  
+- Credential Harvesting  
+- Initial Access via SSH
